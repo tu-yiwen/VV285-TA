@@ -1,0 +1,5 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'RC2.blg'
+[81] biber-darwin:340> INFO - === Wed May 25, 2022, 18:37:06
+[97] Biber.pm:415> INFO - Reading 'RC2.bcf'
+[207] Utils.pm:395> WARN - No data sources defined!
